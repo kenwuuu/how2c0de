@@ -19,3 +19,5 @@ A JS library
 ## MongoDB
 
 ## Mongoose
+Mongoose is a trash ass library that will modify what you type to break your code. It will pluralize your models/collections. Turn off mongoose pluralize, google how. 
+Besides that, it's a nice MongoDB library
