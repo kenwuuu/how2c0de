@@ -13,6 +13,9 @@ I hate learning new technologies and I also like teaching so this is part person
 This is an interpreter for JavaScript. JS used to only run on browsers, now we can run it outside of browsers like regular interpreted/compiled languages. This is nice because we can use a single language for web dev, and we can interchange code between the browser and the server.
 It's literally just JavaScript. 
 
+### Passport
+Authentication library for Node
+
 ## React
 A JS library 
 
@@ -21,3 +24,20 @@ A JS library
 ## Mongoose
 Mongoose is a trash ass library that will modify what you type to break your code. It will pluralize your models/collections. Turn off mongoose pluralize, google how. 
 Besides that, it's a nice MongoDB library
+
+##
+good resources: 
+how to use iterate on json to create multiple instances of a component: https://app.pluralsight.com/guides/load-and-render-json-data-into-react-components
+now to find one about calling apis
+
+read resources:
+react project structure https://www.robinwieruch.de/react-folder-structure
+web project folder structure? https://stackoverflow.com/questions/51126472/how-to-organise-file-structure-of-backend-and-frontend-in-mern
+kinda common sense but good to read https://blog.logrocket.com/the-perfect-architecture-flow-for-your-next-node-js-project/
+
+unread resources:
+node crash course https://youtu.be/zb3Qk8SG5Ms
+https://medium.com/@thejasonfile/a-simple-intro-to-javascript-imports-and-exports-389dd53c3fac
+https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
+agenda js?
+https://reactjs.org/docs/create-a-new-react-app.html toolchains
