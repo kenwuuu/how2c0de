@@ -19,6 +19,9 @@ Authentication library for Node
 ## React
 A JS library 
 
+### how to obtain form data to send to backend
+data in usestate, then to edit that data, have an onChangeHandler function adjust the data, pass the onChangeHandler function to each form input.
+
 ## MongoDB
 
 ## Mongoose
