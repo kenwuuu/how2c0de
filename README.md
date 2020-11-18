@@ -19,6 +19,9 @@ Authentication library for Node
 ## React
 A JS library 
 
+### JSX
+https://reactjs.org/docs/jsx-in-depth.html
+
 ### how to obtain form data to send to backend
 data in usestate, then to edit that data, have an onChangeHandler function adjust the data, pass the onChangeHandler function to each form input.
 
@@ -45,3 +48,9 @@ unread resources:
 - agenda js?
 - https://reactjs.org/docs/create-a-new-react-app.html toolchains
 - https://medium.com/acmvit/reactjs-understanding-package-json-e8cdf408a3df
+
+cors in express lol:
+- https://medium.com/zero-equals-false/using-cors-in-express-cac7e29b005b
+- https://expressjs.com/en/resources/middleware/cors.html
+- https://stackabuse.com/handling-cors-with-node-js/
+- https://daveceddia.com/access-control-allow-origin-cors-errors-in-react-express/
