@@ -30,17 +30,18 @@ Besides that, it's a nice MongoDB library
 
 ##
 good resources: 
-how to use iterate on json to create multiple instances of a component: https://app.pluralsight.com/guides/load-and-render-json-data-into-react-components
-now to find one about calling apis
+- how to use iterate on json to create multiple instances of a component: https://app.pluralsight.com/guides/load-and-render-json-data-into-react-components
+- now to find one about calling apis
 
 read resources:
-react project structure https://www.robinwieruch.de/react-folder-structure
-web project folder structure? https://stackoverflow.com/questions/51126472/how-to-organise-file-structure-of-backend-and-frontend-in-mern
-kinda common sense but good to read https://blog.logrocket.com/the-perfect-architecture-flow-for-your-next-node-js-project/
+- react project structure https://www.robinwieruch.de/react-folder-structure
+- web project folder structure? https://stackoverflow.com/questions/51126472/how-to-organise-file-structure-of-backend-and-frontend-in-mern
+- kinda common sense but good to read https://blog.logrocket.com/the-perfect-architecture-flow-for-your-next-node-js-project/
 
 unread resources:
-node crash course https://youtu.be/zb3Qk8SG5Ms
-https://medium.com/@thejasonfile/a-simple-intro-to-javascript-imports-and-exports-389dd53c3fac
-https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
-agenda js?
-https://reactjs.org/docs/create-a-new-react-app.html toolchains
+- node crash course https://youtu.be/zb3Qk8SG5Ms
+- https://medium.com/@thejasonfile/a-simple-intro-to-javascript-imports-and-exports-389dd53c3fac
+- https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
+- agenda js?
+- https://reactjs.org/docs/create-a-new-react-app.html toolchains
+- https://medium.com/acmvit/reactjs-understanding-package-json-e8cdf408a3df
